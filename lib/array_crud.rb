@@ -23,7 +23,7 @@ end
 
 def remove_element_from_start_of_array(array)
  storage = [1,2,3,4]
-  claim_array_item = 
+  claim_array_item = storage.
 end
 
 def retrieve_element_from_index(array, index_number)
